@@ -1,0 +1,219 @@
+{
+    "variables": [
+        {
+            "group_name": "y0",
+            "name": "y0",
+            "type": "categorical"
+        },
+        {
+            "group_name": "y1",
+            "name": "y1",
+            "type": "categorical"
+        },
+        {
+            "group_name": "y2",
+            "name": "y2",
+            "type": "categorical"
+        },
+        {
+            "group_name": "z0",
+            "name": "z0",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z1",
+            "name": "z1",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z2",
+            "name": "z2",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z3",
+            "name": "z3",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z4",
+            "name": "z4",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z5",
+            "name": "z5",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z6",
+            "name": "z6",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z7",
+            "name": "z7",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z8",
+            "name": "z8",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z9",
+            "name": "z9",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z10",
+            "name": "z10",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z11",
+            "name": "z11",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z12",
+            "name": "z12",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z13",
+            "name": "z13",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z14",
+            "name": "z14",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z15",
+            "name": "z15",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z16",
+            "name": "z16",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z17",
+            "name": "z17",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z18",
+            "name": "z18",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z19",
+            "name": "z19",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z20",
+            "name": "z20",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z21",
+            "name": "z21",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z22",
+            "name": "z22",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z23",
+            "name": "z23",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z24",
+            "name": "z24",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z25",
+            "name": "z25",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z26",
+            "name": "z26",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z27",
+            "name": "z27",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z28",
+            "name": "z28",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z29",
+            "name": "z29",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z30",
+            "name": "z30",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z31",
+            "name": "z31",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z32",
+            "name": "z32",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z33",
+            "name": "z33",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z34",
+            "name": "z34",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z35",
+            "name": "z35",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z36",
+            "name": "z36",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z37",
+            "name": "z37",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z38",
+            "name": "z38",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z39",
+            "name": "z39",
+            "type": "continuous"
+        }
+    ]
+}
