@@ -1,1 +1,4 @@
 .DS_Store
+data/pendulum/regressor_data
+data/pendulum/pendulum
+.ipynb_checkpoints

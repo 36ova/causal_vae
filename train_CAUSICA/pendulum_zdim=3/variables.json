@@ -1,0 +1,39 @@
+{
+    "variables": [
+        {
+            "group_name": "y0",
+            "name": "y0",
+            "type": "continuous"
+        },
+        {
+            "group_name": "y1",
+            "name": "y1",
+            "type": "continuous"
+        },
+        {
+            "group_name": "y2",
+            "name": "y2",
+            "type": "continuous"
+        },
+        {
+            "group_name": "y3",
+            "name": "y3",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z0",
+            "name": "z0",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z1",
+            "name": "z1",
+            "type": "continuous"
+        },
+        {
+            "group_name": "z2",
+            "name": "z2",
+            "type": "continuous"
+        }
+    ]
+}
